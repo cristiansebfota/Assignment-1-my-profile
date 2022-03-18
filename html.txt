@@ -1,1 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 <title>Assignment 1: My Profile<title>
+
+<h3>Personal information:</h3>
+
+<p>Name: Cristian Fota
+Student number: s3785541
+Student email: s3785541@student.Rmit.edu.au
+Background information:
+Nationality: Born in Australia with a Romanian background.
+Education: Completed year 12 VCE and OUA applied mathematics.
+Languages spoken: English, Romanian.
+Other facts:
+Played tennis for 12 years
+Love gaming
+Own a cat named Levi 
+Interested in business</p>
